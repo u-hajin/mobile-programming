@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.prac3"
+        applicationId "com.example.edittext_button"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

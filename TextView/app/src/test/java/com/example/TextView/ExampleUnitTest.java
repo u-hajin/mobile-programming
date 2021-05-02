@@ -1,4 +1,4 @@
-package com.example.TextView;
+package com.example.textview;
 
 import org.junit.Test;
 

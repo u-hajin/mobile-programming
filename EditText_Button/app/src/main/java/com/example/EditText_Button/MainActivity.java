@@ -1,4 +1,4 @@
-package com.example.EditText_Button;
+package com.example.edittext_button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn_test;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) { // 앱을 실행했을 때 처음으로 실행되는
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 

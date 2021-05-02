@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <!-- .xml은 화면을 구성하는 정적인 요소, .java는 실제적인 상호작용, 동적인 요소 -->
@@ -14,7 +13,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:hint="아이디를 입력하세요."/>
-        <!--   dp는 cm와 유사-->
+    <!--   dp는 cm와 유사-->
 
     <!-- 버튼 -->
     <Button

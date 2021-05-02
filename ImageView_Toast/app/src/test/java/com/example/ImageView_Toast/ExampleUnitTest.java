@@ -1,4 +1,4 @@
-package com.example.ImageView_Toast;
+package com.example.imageview_toast;
 
 import org.junit.Test;
 

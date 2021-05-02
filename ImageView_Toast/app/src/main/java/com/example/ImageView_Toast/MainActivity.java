@@ -1,4 +1,4 @@
-package com.example.ImageView_Toast;
+package com.example.imageview_toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         test = findViewById(R.id.test);
         test.setOnClickListener(new View.OnClickListener() {

@@ -1,4 +1,4 @@
-package com.example.EditText_Button;
+package com.example.edittext_button;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.Intent;
+package com.example.intent;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main); // xml 파일이 연결되어 있다.
+        setContentView(R.layout.activity_main);
 
         et_test = findViewById(R.id.et_test);
 

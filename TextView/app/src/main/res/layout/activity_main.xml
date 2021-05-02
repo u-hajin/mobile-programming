@@ -27,5 +27,4 @@
         android:textSize="25sp"
         android:text="반갑습니다."/>
 
-</LinearLayout>
-<!-- androidx.constraintlayout.widget.ConstraintLayout 대신 쓰기 편한 LinearLayout 사용 -->
+</LinearLayout><!-- androidx.constraintlayout.widget.ConstraintLayout 대신 쓰기 편한 LinearLayout 사용 -->
